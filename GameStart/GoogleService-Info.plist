@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744218158445-q0598g9l13pvfk4k3lomq9mequ0mv2uu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744218158445-q0598g9l13pvfk4k3lomq9mequ0mv2uu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB16QjKsf6aCVYEF-xTp8WO4ByaPeQxjGI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744218158445</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>GameApp</string>
+	<key>PROJECT_ID</key>
+	<string>gamestart-15c2b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamestart-15c2b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744218158445:ios:becbe85163bd4350</string>
+	<key>DATABASE_URL</key>
+	<string>https://gamestart-15c2b.firebaseio.com</string>
+</dict>
+</plist>
